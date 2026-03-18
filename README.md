@@ -8,4 +8,4 @@ Currently building **FlowDesk** — an HFT market data pipeline in Rust hitting 
 **Interests:** Distributed systems · AI infrastructure · Fintech
 
 📫 akashsalvi410@gmail.com
-🔗 linkedin.com/in/akash-salvi
+🔗 https://www.linkedin.com/in/akash-salvi/ 
